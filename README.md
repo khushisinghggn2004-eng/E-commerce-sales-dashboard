@@ -1,7 +1,7 @@
 # E-commerce-sales-dashboard 
 
 ##1.Project title
-E-Commerce Sales Dashboard (Power BI)
+E-Commerce Sales Insights Dashboard: Tracking KPIs, Growth & Payment Performance
 
 ##2.Short Description:
 An interactive Power BI dashboard that analyzes e-commerce order data. It tracks four KPIs: total sales, number of orders, unique customers, and average order value (AOV). Each KPI shows month-over-month growth with green/red indicators. The report breaks sales down by product category, payment method, payment status, country and continent, using a donut chart, column chart, detail table, and slicers for filtering by month and other fields.
@@ -41,4 +41,4 @@ An e-commerce business collects thousands of order records, but raw CSV data doe
 
 - Takeaway: Sales are stable, but reducing payment failures and growing Accessories sales should be the top priorities.
 
-  ##6. screenshot:
+  ##6. screenshot:https://github.com/khushisinghggn2004-eng/E-commerce-sales-dashboard/blob/main/Screenshot%202026-10-06%20004454.png
