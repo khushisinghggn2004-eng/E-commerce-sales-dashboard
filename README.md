@@ -1,6 +1,6 @@
 # E-commerce-sales-dashboard 
 
-##1.Project title
+##1.Project title:
 E-Commerce Sales Insights Dashboard: Tracking KPIs, Growth & Payment Performance
 
 ##2.Short Description:
