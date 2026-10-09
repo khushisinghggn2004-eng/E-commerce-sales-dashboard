@@ -11,5 +11,8 @@ An interactive Power BI dashboard that analyzes e-commerce order data. It tracks
 - Power BI Desktop: report design, visuals, slicers, and the .pbit template
 - Power Query (M): loading the CSV source and cleaning it (typing, promoting headers)
 -DAX: measures such as Sales, Orders, AOV, Customers, previous-month comparisons (PREVIOUSMONTH), growth %, and conditional color logic. A calculated date table is built with CALENDARAUTO().
--Data modeling: a star schema with the ecommerce_data fact table linked to dimension tables for product, payment method, payment status, country, and a calendar
--CSV: the source data (ecommerce_data.csv)
+- Data modeling: a star schema with the ecommerce_data fact table linked to dimension tables for product, payment method, payment status, country, and a calendar
+- CSV: the source data (ecommerce_data.csv)
+
+ ##4.Features:
+ 
