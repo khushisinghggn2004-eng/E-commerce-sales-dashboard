@@ -31,3 +31,14 @@ An e-commerce business collects thousands of order records, but raw CSV data doe
 - Donut chart: Shows the proportional split of a categorical dimension, such as payment method, payment status, or category. It’s useful for spotting dominant segments.
 - Clustered column chart: Compares sales or orders across categories or periods, making top and bottom performers easy to see.
 - Detail table: A drill-down view of the underlying order-level data, so users can verify the numbers behind the visuals.
+
+  4.Conclusion:
+- In 2023, the business generated 36.35M in total sales from 27,000 orders and 1,000 customers, with an average order value of about 1,346.
+- Best month: January (3.18M). Weakest: February (2.77M, down 12.9%).
+- Electronics drove 89% of sales, with Laptops and Smartphones making up 75% of revenue. Accessories contributed only 11%.
+- Biggest risk: only 34% of payments were completed. Failed (33.5%) and Pending (32.7%) payments leave about 24M in sales uncollected.
+- Sales are evenly spread across countries and payment methods. France (10.4%) is the top country and Germany (9.5%) the lowest.
+
+- Takeaway: Sales are stable, but reducing payment failures and growing Accessories sales should be the top priorities.
+
+- 5. screenshot:
