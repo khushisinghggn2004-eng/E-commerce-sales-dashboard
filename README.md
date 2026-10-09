@@ -15,15 +15,15 @@ An interactive Power BI dashboard that analyzes e-commerce order data. It tracks
 - CSV: the source data (ecommerce_data.csv)
 
  ##4.Features:
-- 1. Business Problem:
+ 1. Business Problem:
 An e-commerce business collects thousands of order records, but raw CSV data doesn’t show how the business is performing. Leadership can’t easily see whether sales, orders, customers, and order value are growing or shrinking from month to month. They also can’t tell which products, payment channels, or regions drive revenue, or where payments are failing or stuck.
 
-- 2.Goal:
+ 2.Goal:
 - Turn raw order data into a single-page, interactive dashboard that:
 - Monitors key sales KPIs and their month-over-month change at a glance
 - Shows revenue and order distribution across products, payment methods, payment status, and geography
 - Lets stakeholders filter by time period and other dimensions without any technical work, so they can make faster data-driven decisions
-- 3.Walkthrough of Key Visuals
+ 3.Walkthrough of Key Visuals
 - Header and title banner: “E-Commerce Dashboard” with a themed background gives the report a clean, branded look.
 - KPI cards (Sales, Orders, Customers, AOV): Each card shows the current value with a comparison against the previous month. The growth % is colored green for an increase and red for a decrease, driven by DAX color measures. A dynamic “VS [previous month]” label updates with the selected month. Small icons sit beside each card for quick recognition.
 - Month slicer and button slicer: These let users filter the whole page by time period or category, so every KPI and chart recalculates instantly.
