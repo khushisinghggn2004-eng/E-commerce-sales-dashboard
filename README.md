@@ -23,6 +23,7 @@ An e-commerce business collects thousands of order records, but raw CSV data doe
 - Monitors key sales KPIs and their month-over-month change at a glance
 - Shows revenue and order distribution across products, payment methods, payment status, and geography
 - Lets stakeholders filter by time period and other dimensions without any technical work, so they can make faster data-driven decisions
+ 
  3.Walkthrough of Key Visuals
 - Header and title banner: “E-Commerce Dashboard” with a themed background gives the report a clean, branded look.
 - KPI cards (Sales, Orders, Customers, AOV): Each card shows the current value with a comparison against the previous month. The growth % is colored green for an increase and red for a decrease, driven by DAX color measures. A dynamic “VS [previous month]” label updates with the selected month. Small icons sit beside each card for quick recognition.
